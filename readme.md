@@ -16,5 +16,5 @@ bundle
 2. Tocar la microbioma!
 
 ```
-./jugar.rb otus.csv
+./juega.rb otus.csv
 ```
