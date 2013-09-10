@@ -1,6 +1,8 @@
 # la microbioma
 
-¡Eschucho la hermosa múscia!
+¡Escucha la hermosa múscia de la microbioma!
+
+(Listen to the beautiful music of the microbiome!)
 
 Austin G. Davis-Richardson
 
