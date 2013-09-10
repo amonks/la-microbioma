@@ -15,7 +15,7 @@ cd la-microbioma/
 bundle
 ```
 
-2. Tocar la microbioma!
+2. Toque la microbioma!
 
 ```
 ./juega.rb otus.csv
