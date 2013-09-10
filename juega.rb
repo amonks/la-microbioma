@@ -28,6 +28,8 @@ File.open ARGV[0] do |handle|
     bleep.tune instrument, song
     bleep.play
 
+    print line
+
     sleep 1 while !bleep.stopped?
   end
 end
