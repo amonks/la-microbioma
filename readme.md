@@ -4,9 +4,9 @@
 
 (Listen to the beautiful music of the microbiome!)
 
-[Watch the demo](http://youtu.be/xTo4ioJCgds).
+par Austin G. Davis-Richardson
 
-Austin G. Davis-Richardson
+[Watch the demo](http://youtu.be/xTo4ioJCgds).
 
 ## Instrucciones
 
