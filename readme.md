@@ -9,7 +9,7 @@ Austin G. Davis-Richardson
 1. Instalar
 
 ```
-cd player_microbiome/
+cd la-microbioma/
 bundle
 ```
 
