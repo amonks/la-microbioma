@@ -4,14 +4,11 @@ require 'bundler'
 Bundler.require
 
 NOTE_MAP = {
-  0 => ' ',
-  1 => 'a',
-  2 => 'b',
-  3 => 'c',
-  4 => 'd',
-  5 => 'e',
-  6 => 'f',
-  7 => 'g'
+  'N' => ' ',
+  'A' => 'a',
+  'C' => 'c',
+  'T' => 'e',
+  'G' => 'g'
 }
 
 bleep = Bloops.new
@@ -20,8 +17,9 @@ instrument = bleep.sound Bloops::SINE
 
 File.open ARGV[0] do |handle|
   handle.gets # skip header
+  # binding.pry
   handle.each do |line|
-    counts = line.strip.split(',')[1..-1].map(&:to_i)
+    counts = line.strip.split('')
 
     song = counts.map { |x| NOTE_MAP[x] }.join(' ')
 
